@@ -1,6 +1,6 @@
 # Welcome to Alphariz's Coding Journey! 🚀
 
-![Alphariz Logo](https://web.facebook.com/photo?fbid=122101224356030245&set=a.122101223888030245)
+![Alphariz Logo](https://github.com/AlpharizSwiftGo/AlpharizSwiftGo/blob/main/img-logo.png)
 
 ## About Me
 
