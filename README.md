@@ -1,6 +1,6 @@
 # Welcome to Alphariz's Coding Journey! 🚀
 
-![Alphariz Logo](https://drive.google.com/file/d/1EE7CuhFGfeL3Y9DmYbIKb37GnJ5smg7A/view?usp=sharing)
+![Alphariz Logo](https://web.facebook.com/photo?fbid=122101224356030245&set=a.122101223888030245)
 
 ## About Me
 
