@@ -1,5 +1,7 @@
 # Welcome to Alphariz's Coding Journey! 🚀
 
+![Alphariz Logo](https://drive.google.com/file/d/1EE7CuhFGfeL3Y9DmYbIKb37GnJ5smg7A/view?usp=sharing)
+
 ## About Me
 
 Hey there, I'm Alphariz, a passionate tech enthusiast on a mission to explore the realms of coding, with a special focus on Swift and Go. Join me on this exciting journey of learning, building, and sharing tech insights!
